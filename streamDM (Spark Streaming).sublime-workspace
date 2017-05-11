@@ -1,0 +1,1140 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cu",
+				"cumulativeAccuracy"
+			],
+			[
+				"num",
+				"numInstancesSeen"
+			],
+			[
+				"spark",
+				"sparkContext"
+			],
+			[
+				"true",
+				"truePrediction"
+			],
+			[
+				"count",
+				"countClassDistribution"
+			],
+			[
+				"coun",
+				"countClassDistribution"
+			],
+			[
+				"HoeffdingTree",
+				"HoeffdingTreeModel"
+			],
+			[
+				"Split",
+				"SplitNode"
+			],
+			[
+				"distr",
+				"distributionFromSplit"
+			],
+			[
+				"array",
+				"arraytoString"
+			],
+			[
+				"try",
+				"trySplit"
+			],
+			[
+				"best",
+				"bestSuggestions"
+			],
+			[
+				"arra",
+				"arraytoString"
+			],
+			[
+				"class",
+				"classDistribution"
+			],
+			[
+				"M",
+				"MajorityClass"
+			],
+			[
+				"learning",
+				"learningNodeType"
+			],
+			[
+				"counter",
+				"counterall"
+			],
+			[
+				"show",
+				"showConfusionMatrixOption"
+			],
+			[
+				"c",
+				"c	shortcut - class"
+			],
+			[
+				"val",
+				"valueOfClass"
+			],
+			[
+				"Confu",
+				"ConfusionMatrix"
+			],
+			[
+				"example",
+				"exampleSpecification"
+			],
+			[
+				"getExa",
+				"getExampleSpecification"
+			],
+			[
+				"foreach",
+				"foreachRDD"
+			],
+			[
+				"inac",
+				"inactiveNodeCount"
+			],
+			[
+				"ac",
+				"activeNodeCount"
+			],
+			[
+				"dec",
+				"decisionNodeCount"
+			],
+			[
+				"growth",
+				"growthAllowed"
+			],
+			[
+				"ist",
+				"isInstanceOf"
+			],
+			[
+				"add",
+				"addOnWeight"
+			],
+			[
+				"active",
+				"activeNode"
+			],
+			[
+				"bes",
+				"bestSuggestions"
+			],
+			[
+				"Hoeff",
+				"HoeffdingTreeModel"
+			],
+			[
+				"get",
+				"getExamples"
+			],
+			[
+				"chun",
+				"chunkSizeOption"
+			],
+			[
+				"instanceLimit",
+				"instanceLimitOption"
+			],
+			[
+				"number",
+				"numberFeatures"
+			],
+			[
+				"numFeature",
+				"numFeaturesOption"
+			],
+			[
+				"input",
+				"inputFeatures"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pointArray",
+				"pointArrayHCR"
+			],
+			[
+				"Heatmap",
+				"HeatmapLayer"
+			],
+			[
+				"point",
+				"pointArray"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"back",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/FileReader.scala",
+			"settings":
+			{
+				"buffer_size": 6700,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/HoeffdingTree.scala",
+			"settings":
+			{
+				"buffer_size": 23088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/minhnguyen/StreamingAlgo/temp/EvaluatePrequential.scala",
+			"settings":
+			{
+				"buffer_size": 5559,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/Node.scala",
+			"settings":
+			{
+				"buffer_size": 18031,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "scripts/run/checkHDT.res",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/run/run.sh",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/run/toserver.sh",
+			"settings":
+			{
+				"buffer_size": 539,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/streamDMJob.scala",
+			"settings":
+			{
+				"buffer_size": 1521,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/minhnguyen/StreamingAlgo/temp/BasicClassificationEvaluator.scala",
+			"settings":
+			{
+				"buffer_size": 5161,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/FeatureClassObserver.scala",
+			"settings":
+			{
+				"buffer_size": 15862,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/FeatureSplit.scala",
+			"settings":
+			{
+				"buffer_size": 1627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*\n * Copyright (C) 2015 Holmes Team at HUAWEI Noah's Ark Lab.\n *\n * Licensed under the Apache License, Version 2.0 (the \"License\");\n * you may not use this file except in compliance with the License.\n * You may obtain a copy of the License at\n *\n * http://www.apache.org/licenses/LICENSE-2.0\n *\n * Unless required by applicable law or agreed to in writing, software\n * distributed under the License is distributed on an \"AS IS\" BASIS,\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n * See the License for the specific language governing permissions and\n * limitations under the License.\n *\n */\npackage org.apache.spark.streamdm.evaluation\n\nimport math._\n\nimport org.apache.spark.streamdm.core._\nimport org.apache.spark.streaming.dstream.DStream\nimport org.apache.spark.rdd.RDD\n\n/**\n * Clustering evaluator which computes, for each RDD of Example-Double tuples,\n * the clustering cohesion measure (SSE). This is the sum of square distances\n * between Examples and the centroid of their assigned cluster.\n */\nclass ClusteringCohesionEvaluator extends Evaluator {\n\n  /**\n   * Process the result of a predicted stream of Examples and Doubles.\n   *\n   * @param input the input stream containing (Example,Double) tuples\n   * @return a stream of String with the processed evaluation\n   */\n  override def addResult(input: DStream[(Example, Double)], option: Int, numClasses: Int, valueOfClass: Array[String]): DStream[String] =\n    input.transform(rdd => {\n      val inv=rdd.map{case (e,c)=>(c,e)}\n      val centr = ClusteringEvaluationUtil.computeAllCentroids(rdd).\n                    map{case (k,c,s) => (k,c)}\n      inv.join(centr).map{case (k,(e,c))=>pow(e.in.distanceTo(c.in),2)}  \n    }).reduce(_+_).map(x=>\"SSE=%.5f\".format(x))\n\n  /**\n   * Get the evaluation result.\n   *\n   * @return a Double containing the evaluation result\n   */ \n  override def getResult():Double = 0.0\n}\n\n/**\n * Clustering evaluator which computes, for each RDD of Example-Double tuples,\n * the clustering separation measure (SSB). This is the sum of square distances\n * between cluster centroids and the overall data centroid.\n */\nclass ClusteringSeparationEvaluator extends Evaluator {\n\n  /**\n   * Process the result of a predicted stream of Examples and Doubles.\n   *\n   * @param input the input stream containing (Example,Double) tuples\n   * @return a stream of String with the processed evaluation\n   */\n  override def addResult(input: DStream[(Example, Double)], option: Int, numClasses: Int, valueOfClass: Array[String]): DStream[String] =\n    input.transform(rdd => {\n      val inv=rdd.map{case (e,c) => (c,e)}\n      val centr = ClusteringEvaluationUtil.computeAllCentroids(rdd)\n      val sumAll=inv.map{case (c,e)=>(e,1)}.reduce((x,y)=>\n          (new Example(x._1.in.add(y._1.in)),x._2+y._2))\n      val centrAll = {\n        if(sumAll._2>1) new Example(sumAll._1.in.map(x=>x/sumAll._2))\n        else sumAll._1\n      }\n      centr.map{case (k,c,s)=>s*pow(c.in.distanceTo(centrAll.in),2)}\n    }).reduce(_+_).map(x=>\"SSB=%.5f\".format(x))\n\n  /**\n   * Get the evaluation result.\n   *\n   * @return a Double containing the evaluation result\n   */\n  override def getResult():Double = 0.0\n}\n\n/**\n * Helper class which contains util functions for clustering evaluation.\n */\nobject ClusteringEvaluationUtil {\n\n  def computeAllCentroids(input: RDD[(Example,Double)]): \n                RDD[(Double,Example, Int)] =\n    input.map{case (e,c) => (c,e)}.map{case (c,e) => (c,Array(e))}.\n      reduceByKey((x,y) => x++y).map{case (c,e) => {\n        val clSize = e.length\n        val clSum = e.foldLeft(new Example(new NullInstance))(\n          (a,x) =>  a.in match {\n            case NullInstance() => new Example(x.in.map(x=>x))\n            case _ => new Example(a.in.add(x.in))\n          })        \n        if(clSize>1)\n          (c,new Example(clSum.in.map(x=>x/clSize)),clSize)\n        else\n          (c,clSum,1)\n      }}\n}\n",
+			"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/ClusteringEvaluator.scala",
+			"file_size": 3921,
+			"file_write_time": 1494493372000000,
+			"settings":
+			{
+				"buffer_size": 3921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt5.res",
+			"settings":
+			{
+				"buffer_size": 27307,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/result/hdt7.res",
+			"settings":
+			{
+				"buffer_size": 26042,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"scala",
+				"Set Syntax: Scala"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/Evaluator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/accuracy.py",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/Utils.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/evaluation/ClusteringEvaluator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl5_t_checkGaussianApproximation.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4_t.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl5_t.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/spark.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4_t.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/SGDLearner.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4Null_t.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4Null_t.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl4Null.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt12.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/checkHDT5.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/checkHDT5_accuracy.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/checkHDT7.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl2.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/majcl3.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt6.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt11.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/HoeffdingTree.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt8.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt10.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hdt9.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/runserver.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/result/hd9.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/hdt2.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/bodyfat.arff",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/generateData.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/DenseInstance.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/model/LinearModel.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/SplitCriterion.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/randomtreedata.arff",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/hyperplanesampledata",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/hyperplanesampledata.arff.head",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/hdt2.log",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/02.Last Christmas - Wham [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/03.More Than I Can Say - Leo Sayer [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/04. Donna Donna - Claude Francois [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/05.Donna Donna - Yao Si Ting [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/06.Careless Whisper - Wham [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/07.Yesterday Once More - Carpenters [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/08.Because I Love You - Shakin_ Stevens [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/09.Until You - Shayne Ward [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/10.No Promises - Shayne Ward [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/11.One More Night - Maroon 5 [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/12.It_s Not Goodbye - Laura Pausini [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/13.Cry On My Shoulder - Super Stars [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/14.Hotel California - The Eagles [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/15.Sealed With A Kiss - Brian Hyland [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/16.Tonight I Celebrate My Love For You - Ya [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/17.Big Big World - Emilia [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/18.Love To Be Loved By You - Marc Terenzi [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/19.Take Me To Your Heart - Michael Learns T [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/Rolling In The Deep - Adele [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/Sealed With A Kiss - Yao Si Ting [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/20.Safe And Sound - Taylor Swift_ The Civil [FLAC Lossless].flac",
+		"/Users/minhnguyen/Music/US-UK/Lossless/Lossless-selected/01. Lemon Tree - Fools Garden [FLAC Lossless].flac",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/evaluation/Evaluator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/hdt.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/specification/FeatureSpecification.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/learn.sbt",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/java/com/github/javacliparser/Option.java",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/java/com/github/javacliparser/Options.java",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/tasks/ClusteringTrainEvaluate.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/trees/FeatureSplit.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/PrintStreamWriter.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/stage1.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/data/covtypeNorm.arff",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/hdt.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/StreamReader.scala",
+		"/Users/minhnguyen/StreamingAlgo/replaceText.py",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/spark_cluster.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/evaluation/BasicClassificationEvaluator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/tasks/EvaluatePrequential.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/new.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/target/test-reports/org.apache.spark.streamdm.classifiers.model.ZeroRegularizerSuite.xml",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/project/plugins.sbt",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/instance_server/server.py",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/KafkaReader.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/TextStreamReader.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/SocketTextStreamReader.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/generators/Generator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streams/generators/HyperplaneGenerator.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/java/com/github/javacliparser/ClassOption.java",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/streamDMJob.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/..sth.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/..sth.res",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/HoeffdingTree.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/instance_server/generate_dataset.py",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/run.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/classifiers/MultiClassLearner.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/sth.log",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run/toserver.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/specification/ExampleSpecification.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/Learner.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/run_server.sh",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/Instance.scala",
+		"/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/src/main/scala/org/apache/spark/streamdm/core/ExampleParser.scala",
+		"/Users/minhnguyen/Downloads/reportDrug.ipynb.json",
+		"/Users/minhnguyen/Downloads/sample.java",
+		"/Users/minhnguyen/Downloads/sample.txt",
+		"/Users/minhnguyen/Google Drive/Telecom-ParisTech/Study/P2_IMA203/Tp5/TP_ModelesDeformables/TP_Modeles_Deformables.m",
+		"/Users/minhnguyen/Google Drive/Telecom-ParisTech/Study/P2_SD203 Web /TP/JS/helloworld.js",
+		"/Users/minhnguyen/Downloads/Bus Map/busmapPrediction/data 10.txt",
+		"/Users/minhnguyen/Downloads/Win10_English_x64/autorun.inf",
+		"/Users/minhnguyen/Google Drive/Telecom-ParisTech/Study/MDI210 Optimisation/TP1 /src/simplexeDemo_source_from_cfr/simplexe/Main.java",
+		"/Users/minhnguyen/Google Drive/Telecom-ParisTech/Study/MDI210 Optimisation/TP1 /src/simplexeDemo_source_from_cfr/matrice/Matrice.java",
+		"/Users/minhnguyen/Downloads/Bus Map/busmapPrediction/BusHeatMap-HCR-prediction copy.html",
+		"/Users/minhnguyen/Downloads/Bus Map/bus heat map - Ho con rua/BusHeatMapofFeb1-at6hour.html",
+		"/Users/minhnguyen/Downloads/Bus Map/BusHeatMap-HCR-HVT.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/sitebs.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/pagebs.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/heatmap.html",
+		"/Users/minhnguyen/Downloads/Bus Map/bus heat map - Ho con rua/BusHeatMapofFeb1-at18hour.html",
+		"/Users/minhnguyen/Downloads/Bus Map/bus heat map - Hoang Van Thu/BusHeatMapofFeb1-at18hour.html",
+		"/Users/minhnguyen/Downloads/Bus Map/bus heat map - Hoang Van Thu/newbusmap.html",
+		"/Users/minhnguyen/Downloads/BusHeatMap.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/page.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/test.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/site.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/its/site.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/learn/ex1.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"correct",
+			"accuracy",
+			"Cumulative",
+			"numInstancesCorrect",
+			"HoeffdingTreeModel: {",
+			"HoeffdingTreeModel",
+			"Total del",
+			"delay",
+			"HoeffdingTreeModel: {",
+			"total",
+			"ClassDistr:",
+			"ClassDistr ",
+			"classdistr ",
+			"classdistr",
+			"new model",
+			"merge",
+			"CheckActive",
+			"checkActive",
+			"println",
+			"new model",
+			"root.description",
+			"description",
+			"extends Node",
+			"children",
+			"splitNode",
+			"filterto",
+			"numBins",
+			"splitTranspose",
+			"classDis",
+			"splitall",
+			"binary",
+			"bestSplit",
+			"featureObservers",
+			"train",
+			"merge",
+			"createLearningNode",
+			"addOnWeight",
+			"addOnweigh",
+			"addOn",
+			"addn",
+			"pure",
+			"suggestions",
+			"Hoeffding",
+			"suggestions",
+			"best sug",
+			"suggestion",
+			"suggest",
+			"suggestion",
+			"blockNumExamples",
+			"block",
+			"learn",
+			"arraytoString",
+			"train",
+			"split",
+			"HoeffdingTreeModel",
+			"Update",
+			"tree",
+			"tModel",
+			"before",
+			"root.descr",
+			"description",
+			"blockClassDis",
+			"block",
+			"Before",
+			"counter",
+			" =>",
+			"toString",
+			"accuracy7232",
+			".931",
+			".06",
+			"blockClass",
+			"blockCl",
+			"learn",
+			"blockClas",
+			"learn",
+			".learn",
+			"learn.",
+			"learn",
+			"classD",
+			"Majorit",
+			"learningNodeOpt",
+			"update",
+			"SparkUI",
+			"8080",
+			"delay",
+			"train",
+			"merge",
+			"HoeffdingTreeModel",
+			"{",
+			"merge",
+			"merit",
+			"math_log",
+			"splitCriterion",
+			"create",
+			"blockClassDistribution",
+			"best",
+			"result",
+			"distribution",
+			"createLearningNode",
+			"classDistribution",
+			"train",
+			"delay",
+			"stop",
+			"headParser",
+			"Some",
+			"numClasses",
+			"specifica",
+			"error",
+			"println",
+			"class1,",
+			"error",
+			"class1",
+			"Error",
+			"decisionNode",
+			"decision",
+			"inactive",
+			"createLearning",
+			"creat",
+			"decision",
+			"decisionNodeCount",
+			"activeNodeCount",
+			"learningNodeType",
+			"createLearningNode",
+			"root",
+			"height",
+			"treeHeight",
+			"depth",
+			"growthAllowed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/FileReader.scala",
+					"settings":
+					{
+						"buffer_size": 6700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/HoeffdingTree.scala",
+					"settings":
+					{
+						"buffer_size": 23088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23088,
+								23087
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/minhnguyen/StreamingAlgo/temp/EvaluatePrequential.scala",
+					"settings":
+					{
+						"buffer_size": 5559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5437,
+								5437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 6.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/Node.scala",
+					"settings":
+					{
+						"buffer_size": 18031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6565,
+								6565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scripts/run/checkHDT.res",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scripts/run/run.sh",
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 99.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scripts/run/toserver.sh",
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/main/scala/org/apache/spark/streamdm/streamDMJob.scala",
+					"settings":
+					{
+						"buffer_size": 1521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1229,
+								1229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/minhnguyen/StreamingAlgo/temp/BasicClassificationEvaluator.scala",
+					"settings":
+					{
+						"buffer_size": 5161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								775,
+								775
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/FeatureClassObserver.scala",
+					"settings":
+					{
+						"buffer_size": 15862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12371,
+								12378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/FeatureSplit.scala",
+					"settings":
+					{
+						"buffer_size": 1627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1020,
+								1020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/main/scala/org/apache/spark/streamdm/classifiers/trees/ClusteringEvaluator.scala",
+					"settings":
+					{
+						"buffer_size": 3921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 12,
+					"file": "scripts/result/hdt5.res",
+					"settings":
+					{
+						"buffer_size": 27307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "scripts/result/hdt7.res",
+					"settings":
+					{
+						"buffer_size": 26042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24317,
+								24317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.804537605526,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"t",
+				"streamDM/scripts/run/toserver.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true
+}
