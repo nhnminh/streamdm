@@ -1,0 +1,154 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+17/04/24 10:56:29 INFO SparkContext: Running Spark version 1.5.1
+17/04/24 10:56:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+17/04/24 10:56:30 INFO SecurityManager: Changing view acls to: minhnguyen
+17/04/24 10:56:30 INFO SecurityManager: Changing modify acls to: minhnguyen
+17/04/24 10:56:30 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(minhnguyen); users with modify permissions: Set(minhnguyen)
+17/04/24 10:56:31 INFO Slf4jLogger: Slf4jLogger started
+17/04/24 10:56:31 INFO Remoting: Starting remoting
+17/04/24 10:56:31 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkDriver@192.168.1.126:50713]
+17/04/24 10:56:31 INFO Utils: Successfully started service 'sparkDriver' on port 50713.
+17/04/24 10:56:31 INFO SparkEnv: Registering MapOutputTracker
+17/04/24 10:56:31 INFO SparkEnv: Registering BlockManagerMaster
+17/04/24 10:56:31 INFO DiskBlockManager: Created local directory at /private/var/folders/5d/zfph4vmx069g8444mbjrg03r0000gn/T/blockmgr-5feea715-6905-4d66-b284-636d535a7454
+17/04/24 10:56:31 INFO MemoryStore: MemoryStore started with capacity 530.0 MB
+17/04/24 10:56:31 INFO HttpFileServer: HTTP File server directory is /private/var/folders/5d/zfph4vmx069g8444mbjrg03r0000gn/T/spark-281fd3ff-986c-4d1a-a23b-036d78403462/httpd-7d10fba1-a667-4f3d-ae3b-a2baaf3bd6d7
+17/04/24 10:56:31 INFO HttpServer: Starting HTTP Server
+17/04/24 10:56:31 INFO Utils: Successfully started service 'HTTP file server' on port 50714.
+17/04/24 10:56:31 INFO SparkEnv: Registering OutputCommitCoordinator
+17/04/24 10:56:31 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+17/04/24 10:56:31 INFO SparkUI: Started SparkUI at http://192.168.1.126:4040
+17/04/24 10:56:31 INFO SparkContext: Added JAR file:/Users/minhnguyen/StreamingAlgo/StreamDM/streamDM/scripts/../target/scala-2.10/streamdm-spark-streaming_2.10-0.2.jar at http://192.168.1.126:50714/jars/streamdm-spark-streaming_2.10-0.2.jar with timestamp 1493024191504
+17/04/24 10:56:31 WARN MetricsSystem: Using default name DAGScheduler for source because spark.app.id is not set.
+17/04/24 10:56:31 INFO Executor: Starting executor ID driver on host localhost
+17/04/24 10:56:31 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 50715.
+17/04/24 10:56:31 INFO NettyBlockTransferService: Server created on 50715
+17/04/24 10:56:31 INFO BlockManagerMaster: Trying to register BlockManager
+17/04/24 10:56:31 INFO BlockManagerMasterEndpoint: Registering block manager localhost:50715 with 530.0 MB RAM, BlockManagerId(driver, localhost, 50715)
+17/04/24 10:56:31 INFO BlockManagerMaster: Registered BlockManager
+17/04/24 10:56:31 INFO FileReader: 0
+17/04/24 10:56:31 INFO FileReader: 1
+17/04/24 10:56:31 INFO HoeffdingTreeModel: numClasses2
+17/04/24 10:56:32 INFO ForEachDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO MappedDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO ShuffledDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO TransformedDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO MappedDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO MappedDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO FileReader$$anon$1: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO FileReader$$anon$1: Slide time = 2000 ms
+17/04/24 10:56:32 INFO FileReader$$anon$1: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO FileReader$$anon$1: Checkpoint interval = null
+17/04/24 10:56:32 INFO FileReader$$anon$1: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO FileReader$$anon$1: Initialized and validated org.apache.spark.streamdm.streams.FileReader$$anon$1@713fb935
+17/04/24 10:56:32 INFO MappedDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO MappedDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO MappedDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Initialized and validated org.apache.spark.streaming.dstream.MappedDStream@484bcfe4
+17/04/24 10:56:32 INFO MappedDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO MappedDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO MappedDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Initialized and validated org.apache.spark.streaming.dstream.MappedDStream@541a062a
+17/04/24 10:56:32 INFO TransformedDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO TransformedDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO TransformedDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO TransformedDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO TransformedDStream: Initialized and validated org.apache.spark.streaming.dstream.TransformedDStream@21b16c40
+17/04/24 10:56:32 INFO ShuffledDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO ShuffledDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO ShuffledDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO ShuffledDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO ShuffledDStream: Initialized and validated org.apache.spark.streaming.dstream.ShuffledDStream@2dcb9f52
+17/04/24 10:56:32 INFO MappedDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO MappedDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO MappedDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Initialized and validated org.apache.spark.streaming.dstream.MappedDStream@3b6941e0
+17/04/24 10:56:32 INFO ForEachDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO ForEachDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO ForEachDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO ForEachDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO ForEachDStream: Initialized and validated org.apache.spark.streaming.dstream.ForEachDStream@3f462bf1
+17/04/24 10:56:32 INFO ForEachDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO FileReader$$anon$1: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO FileReader$$anon$1: Slide time = 2000 ms
+17/04/24 10:56:32 INFO FileReader$$anon$1: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO FileReader$$anon$1: Checkpoint interval = null
+17/04/24 10:56:32 INFO FileReader$$anon$1: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO FileReader$$anon$1: Initialized and validated org.apache.spark.streamdm.streams.FileReader$$anon$1@713fb935
+17/04/24 10:56:32 INFO ForEachDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO ForEachDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO ForEachDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO ForEachDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO ForEachDStream: Initialized and validated org.apache.spark.streaming.dstream.ForEachDStream@15bf8335
+17/04/24 10:56:32 INFO ForEachDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO MappedDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO MappedDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO ShuffledDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO MappedDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO MappedDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO MappedDStream: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO FileReader$$anon$1: metadataCleanupDelay = -1
+17/04/24 10:56:32 INFO FileReader$$anon$1: Slide time = 2000 ms
+17/04/24 10:56:32 INFO FileReader$$anon$1: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO FileReader$$anon$1: Checkpoint interval = null
+17/04/24 10:56:32 INFO FileReader$$anon$1: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO FileReader$$anon$1: Initialized and validated org.apache.spark.streamdm.streams.FileReader$$anon$1@713fb935
+17/04/24 10:56:32 INFO MappedDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO MappedDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO MappedDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Initialized and validated org.apache.spark.streaming.dstream.MappedDStream@484bcfe4
+17/04/24 10:56:32 INFO MappedDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO MappedDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO MappedDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Initialized and validated org.apache.spark.streaming.dstream.MappedDStream@64ffafdf
+17/04/24 10:56:32 INFO MappedDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO MappedDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO MappedDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Initialized and validated org.apache.spark.streaming.dstream.MappedDStream@156894e1
+17/04/24 10:56:32 INFO ShuffledDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO ShuffledDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO ShuffledDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO ShuffledDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO ShuffledDStream: Initialized and validated org.apache.spark.streaming.dstream.ShuffledDStream@1bff2c1e
+17/04/24 10:56:32 INFO MappedDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO MappedDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO MappedDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Initialized and validated org.apache.spark.streaming.dstream.MappedDStream@7230b27f
+17/04/24 10:56:32 INFO MappedDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO MappedDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO MappedDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO MappedDStream: Initialized and validated org.apache.spark.streaming.dstream.MappedDStream@6ba87ab1
+17/04/24 10:56:32 INFO ForEachDStream: Slide time = 2000 ms
+17/04/24 10:56:32 INFO ForEachDStream: Storage level = StorageLevel(false, false, false, false, 1)
+17/04/24 10:56:32 INFO ForEachDStream: Checkpoint interval = null
+17/04/24 10:56:32 INFO ForEachDStream: Remember duration = 2000 ms
+17/04/24 10:56:32 INFO ForEachDStream: Initialized and validated org.apache.spark.streaming.dstream.ForEachDStream@3a3634b9
+17/04/24 10:56:32 INFO RecurringTimer: Started timer for JobGenerator at time 1493024200000
+17/04/24 10:56:32 INFO JobGenerator: Started JobGenerator at 1493024200000 ms
+17/04/24 10:56:32 INFO JobScheduler: Started JobScheduler
+17/04/24 10:56:32 INFO StreamingContext: StreamingContext started
+17/04/24 10:56:33 INFO StreamingContext: Invoking stop(stopGracefully=false) from shutdown hook
+17/04/24 10:56:33 INFO JobGenerator: Stopping JobGenerator immediately
+17/04/24 10:56:33 INFO RecurringTimer: Stopped timer for JobGenerator after time -1
+17/04/24 10:56:33 INFO JobGenerator: Stopped JobGenerator
+17/04/24 10:56:33 INFO JobScheduler: Stopped JobScheduler
+17/04/24 10:56:33 INFO StreamingContext: StreamingContext stopped successfully
+17/04/24 10:56:33 INFO SparkContext: Invoking stop() from shutdown hook
+17/04/24 10:56:33 INFO SparkUI: Stopped Spark web UI at http://192.168.1.126:4040
+17/04/24 10:56:33 INFO DAGScheduler: Stopping DAGScheduler
+17/04/24 10:56:33 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+17/04/24 10:56:33 INFO MemoryStore: MemoryStore cleared
+17/04/24 10:56:33 INFO BlockManager: BlockManager stopped
+17/04/24 10:56:33 INFO BlockManagerMaster: BlockManagerMaster stopped
+17/04/24 10:56:33 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+17/04/24 10:56:33 INFO SparkContext: Successfully stopped SparkContext
+17/04/24 10:56:33 INFO ShutdownHookManager: Shutdown hook called
+17/04/24 10:56:33 INFO ShutdownHookManager: Deleting directory /private/var/folders/5d/zfph4vmx069g8444mbjrg03r0000gn/T/spark-281fd3ff-986c-4d1a-a23b-036d78403462
